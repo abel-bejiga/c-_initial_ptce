@@ -14,7 +14,10 @@ namespace test
             // Console.WriteLine(MakeFancyString);
 
             bool isValid = IsValid.Solution.IsValid("UuE6");
-            Console.WriteLine(isValid);
+            // Console.WriteLine(isValid);
+
+            int IsLuckyInteger = LuckyInteger.Solution.FindLucky([1, 2, 2, 3, 3, 3]);
+            Console.WriteLine(IsLuckyInteger);
         }
     }
 }
