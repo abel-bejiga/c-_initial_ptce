@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ab_/Downloads/projects/c-_initial_ptce/practiceApp/MyApp.csproj": {}
+    "A:\\Projects\\cSharp_prac\\practiceApp\\MyApp.csproj": {}
   },
   "projects": {
-    "/Users/ab_/Downloads/projects/c-_initial_ptce/practiceApp/MyApp.csproj": {
+    "A:\\Projects\\cSharp_prac\\practiceApp\\MyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ab_/Downloads/projects/c-_initial_ptce/practiceApp/MyApp.csproj",
+        "projectUniqueName": "A:\\Projects\\cSharp_prac\\practiceApp\\MyApp.csproj",
         "projectName": "MyApp",
-        "projectPath": "/Users/ab_/Downloads/projects/c-_initial_ptce/practiceApp/MyApp.csproj",
-        "packagesPath": "/Users/ab_/.nuget/packages/",
-        "outputPath": "/Users/ab_/Downloads/projects/c-_initial_ptce/practiceApp/obj/",
+        "projectPath": "A:\\Projects\\cSharp_prac\\practiceApp\\MyApp.csproj",
+        "packagesPath": "C:\\Users\\abelb\\.nuget\\packages\\",
+        "outputPath": "A:\\Projects\\cSharp_prac\\practiceApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/ab_/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\abelb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
