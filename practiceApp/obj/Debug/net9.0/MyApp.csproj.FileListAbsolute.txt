@@ -1,0 +1,15 @@
+/Users/ab_/Downloads/projects/c-_initial_ptce/practiceApp/bin/Debug/net9.0/MyApp
+/Users/ab_/Downloads/projects/c-_initial_ptce/practiceApp/bin/Debug/net9.0/MyApp.deps.json
+/Users/ab_/Downloads/projects/c-_initial_ptce/practiceApp/bin/Debug/net9.0/MyApp.runtimeconfig.json
+/Users/ab_/Downloads/projects/c-_initial_ptce/practiceApp/bin/Debug/net9.0/MyApp.dll
+/Users/ab_/Downloads/projects/c-_initial_ptce/practiceApp/bin/Debug/net9.0/MyApp.pdb
+/Users/ab_/Downloads/projects/c-_initial_ptce/practiceApp/obj/Debug/net9.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ab_/Downloads/projects/c-_initial_ptce/practiceApp/obj/Debug/net9.0/MyApp.AssemblyInfoInputs.cache
+/Users/ab_/Downloads/projects/c-_initial_ptce/practiceApp/obj/Debug/net9.0/MyApp.AssemblyInfo.cs
+/Users/ab_/Downloads/projects/c-_initial_ptce/practiceApp/obj/Debug/net9.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/ab_/Downloads/projects/c-_initial_ptce/practiceApp/obj/Debug/net9.0/MyApp.sourcelink.json
+/Users/ab_/Downloads/projects/c-_initial_ptce/practiceApp/obj/Debug/net9.0/MyApp.dll
+/Users/ab_/Downloads/projects/c-_initial_ptce/practiceApp/obj/Debug/net9.0/refint/MyApp.dll
+/Users/ab_/Downloads/projects/c-_initial_ptce/practiceApp/obj/Debug/net9.0/MyApp.pdb
+/Users/ab_/Downloads/projects/c-_initial_ptce/practiceApp/obj/Debug/net9.0/MyApp.genruntimeconfig.cache
+/Users/ab_/Downloads/projects/c-_initial_ptce/practiceApp/obj/Debug/net9.0/ref/MyApp.dll
